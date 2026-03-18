@@ -26,3 +26,19 @@ print(len(course))
 
 # access specific characters in a string with index [] (0 will return first character, 1 will return second character, and so on)
 print(course[0])
+
+# index -1 will return the last character in the string
+print(course[-1])
+
+# index range of 0:3 will get index 0,1,2 and note that the number  on left is NOT included
+print(course[0:3])
+
+# this will return a new string that is the same as the original string
+print(course[0:])
+
+# including the end index, but not the start is like [0:3]
+print(course[:3])
+
+# this will return the same as the original string
+print(course[:])
+
