@@ -13,7 +13,7 @@
 
 - Which key performance indicators (KPIs) are most important to us? What does it look like when we achieve beyond specific KPIs?
 - How do you intend to use this data moving forward? 
-- Will that mean adopting a certain presetnation standard? 
+- Will that mean adopting a certain presentation standard? 
 
 ## Define Over-performance
 *Consider what it would mean if the treatment dramatically exceeded expectations.*
