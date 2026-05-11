@@ -15,3 +15,5 @@ What are 6 analytical questions you can ask about this dataset? (starred questio
 5) Of the most popular sizes purchased overall, which has yields the highest reviews? *
 
 6) How frequently is a promo code used by the customers with the highest frequency of purchases ?  
+
+
